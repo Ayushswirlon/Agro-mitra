@@ -17,7 +17,7 @@ Open a terminal or command prompt
 Navigate to the directory where you want to create your project
 Run the following command to create a new React project:
 
-<!-- npx create-react-app crop-care-ai -->
+npx create-react-app crop-care-ai 
 
 This will create a new folder called crop-care-ai with a basic React project structure
 
@@ -30,25 +30,25 @@ Go to File -> Open Folder and select the crop-care-ai folder
 
 In the VS Code terminal, run:
 
-<!-- npm install react-router-dom tailwindcss -->
+npm install react-router-dom tailwindcss 
 
 6. Set up Tailwind CSS
 
 Initialize Tailwind:
 
-<!-- npx tailwindcss init -p -->
+npx tailwindcss init -p 
 
 7. Install react-router-dom
 
 In the VS Code terminal, run:
 
-<!-- npm install react-router-dom -->
+npm install react-router-dom 
 
 8. Run the development server
 
 In the VS Code terminal, run:
 
-<!-- npm start -->
+npm start
 
 This will start the development server and open your app in a browser
 
@@ -61,7 +61,7 @@ Use the Homepage component as a starting point for your home page.
 
 When you're ready to deploy, run:
 
-<!-- npm run build -->
+npm run build 
 
 This will create a build folder with your production-ready files
 
